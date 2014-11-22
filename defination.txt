@@ -1,0 +1,15 @@
+Hospital Management System:
+	Functions or Module using to create hospital management system software:
+	> Login and Logout
+	> Doctor's detail
+	> Operation
+	> Appoitnment detail
+	> Doctor's Duty list
+Program:
+#include<stdio.h>
+#include<conio.h>
+#inlcude<math.h>
+void main()
+{
+}
+
