@@ -11,5 +11,11 @@ Program:
 #inlcude<math.h>
 void main()
 {
+	Printf("Hospital management System");
+	// module 1 login logout use for authorised access
+	// module 2 for all doctors detail
+	// operation module for checking the plan today's
+	// appointment module use for getting appointment
+	// Doctors duty module simple for checking availblity of doctors
 }
 
